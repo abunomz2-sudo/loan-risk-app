@@ -223,8 +223,8 @@ Confusion Matrix:
 
 ## 👨‍💻 Author
 
-**Abuthahir**
-- GitHub: [@ABUTHAHIR](https://github.com/ABUTHAHIR)
+**Abuthahir S**
+- GitHub: [@ABUTHAHIR S](https://github.com/abunomz2-sudo)
 
 ---
 
