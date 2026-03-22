@@ -21,10 +21,10 @@
 ## 📸 Screenshots
 
 ### Risk Assessment
-![Risk Assessment Tab](https://via.placeholder.com/900x500?text=Risk+Assessment+Screenshot)
+![Risk Assessment Tab](screenshot1.png)
 
 ### Training Metrics
-![Training Metrics Tab](https://via.placeholder.com/900x500?text=Training+Metrics+Screenshot)
+![Training Metrics Tab](screenshot2.png)
 
 > 💡 Replace the placeholder images above with real screenshots of your app.
 
