@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[https://loan-risk-app.onrender.com](https://loan-risk-app.onrender.com)**
+🔗 **[https://loan-risk-app.onrender.com](https://loan-risk-app-2.onrender.com)**
 
 > ⚠️ Free tier may take 30–60 seconds to wake up on first visit.
 
