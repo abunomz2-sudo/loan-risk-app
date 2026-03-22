@@ -17,14 +17,13 @@
 > ⚠️ Free tier may take 30–60 seconds to wake up on first visit.
 
 ---
-
 ## 📸 Screenshots
 
 ### Risk Assessment
-![Risk Assessment Tab](Screenshot%202026-03-22%20224306.png)
+![Risk Assessment Tab](./screenshot1.png.png)
 
 ### Training Metrics
-![Training Metrics Tab](Screenshot%202026-03-22%20224430.png)
+![Training Metrics Tab](./screenshot2.png.png)
 
 > 💡 Replace the placeholder images above with real screenshots of your app.
 
