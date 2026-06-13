@@ -12,9 +12,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[https://loan-risk-app.onrender.com]((https://loan-risk-scoring-n5p125dx3-abunomz2-sudos-projects.vercel.app))**
-
-> ⚠️ Free tier may take 30–60 seconds to wake up on first visit.
+🔗 **[https://loan-risk-scoring.vercel.app](https://loan-risk-scoring.vercel.app)**
 
 ---
 ## 📸 Screenshots
